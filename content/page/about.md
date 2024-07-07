@@ -1,7 +1,7 @@
 ---
 title: About me
 subtitle: 
-comments: true
+comments: False
 ---
 
 I enjoy programming, but I rarely bother to finish any personal projects.
