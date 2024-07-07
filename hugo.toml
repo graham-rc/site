@@ -91,9 +91,14 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
+    name = "Links"
+    url = "page/links/"
+    weight = 3
+
+[[menu.main]]
     identifier = "samples"
     name = "Samples"
-    weight = 2
+    weight = 10
 
 [[menu.main]]
     parent = "samples"
