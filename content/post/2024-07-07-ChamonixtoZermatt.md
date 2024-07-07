@@ -6,7 +6,7 @@ tags: ["run",
     "hike", 
     "adventure", 
 ]
-bigimg: [{src: "/img/chamonix_to_zermatt/IMG_8271.HEIC.jpg", desc: "Start in Chamonix"}, {src: "/img/chamonix_to_zermatt/IMG_8336.HEIC.jpg", desc: "Glacier"}, {src: "/img/chamonix_to_zermatt/IMG_8343.HEIC.jpg", desc: "Above Martigny"}]
+bigimg: [{src: "/img/chamonix_to_zermatt/start.jpg", desc: "Start in Chamonix"}, {src: "/img/chamonix_to_zermatt/glacier.jpg", desc: "Glacier"}, {src: "/img/chamonix_to_zermatt/martigny.jpg", desc: "Above Martigny"}]
 ---
 
 On 21st June 2024, I set off hoping to run/hike the "Walkers Haute Route". It didn't exactly go to plan.
