@@ -9,20 +9,18 @@ tags: ["run",
 bigimg: [{src: "/img/chamonix_to_zermatt/start.jpg", desc: "Start in Chamonix"}, {src: "/img/chamonix_to_zermatt/glacier.jpg", desc: "Glacier"}, {src: "/img/chamonix_to_zermatt/martigny.jpg", desc: "Above Martigny"}]
 ---
 
-On 21st June 2024, I set off hoping to run/hike the "Walkers Haute Route". It didn't exactly go to plan.
+On 21st June 2024, I set off hoping to run/hike the "Walkers Haute Route". It didn't exactly go to plan. Days one and two went without any real issue, but I was finding snow at around 2500m. The route crosses the grain of the Swiss mountains, with 7 passes close to 3000m and a significant time above 2500m. There are no real alternatives as the valley routes would be huge detours.
 
-
-
-
+![Cabane de Louvie](/img/chamonix_to_zermatt/Louvie.jpg)
 
 ## Original expected route:
-| Date       | Start               | End                 | Stay                     | km   | mi    | climb |
-| ---------- | ------------------- | ------------------- | ------------------------ | ---- | ----- | ----- |
-| Fri | Chamonix            | Trient              | Le Peuty - Low level hut | 24   | 15    | 1300  |
-| Sat | Trient              | Le Chable           | B&B                      | 30.5 | 19.1 | 1590  |
-| Sun | Le Chable           | Cabane de Louvie    | Cabane de Louvie         | 19   | 11.9 | 2060  |
-| Mon | Cabane de Louvie    | La gouille lac bleu | Pension do Lac Bleu      | 34   | 21.2 | 1850  |
-| Tue | La gouille lac bleu | Cabane de Moiry     | Cabane de Moiry          | 22.5 | 14.1 | 2200  |
-| Wed | Cabane de Moiry     | Gruben              | Schwarzhorn hotel        | 36.5 | 22.8 | 1900  |
-| Thu | Gruben              | Grachen             | Hotel                    | 23   | 14.4 | 1750  |
-| Fri | Grachen             | Zermatt             | Basecamp Hotel           | 39   | 24.4 | 2050  |
+| Day | Start               | End                 | km   | mi    | climb |
+| --- | ------------------- | ------------------- | ---- | ----- | ----- |
+| 1   | Chamonix            | Trient              | 24   | 15    | 1300  |
+| 2   | Trient              | Le Chable           | 30.5 | 19.06 | 1590  |
+| 3   | Le Chable           | Cabane de Louvie    | 19   | 11.88 | 2060  |
+| 4   | Cabane de Louvie    | La gouille lac bleu | 34   | 21.25 | 1850  |
+| 5   | La gouille lac bleu | Cabane de Moiry     | 22.5 | 14.06 | 2200  |
+| 6   | Cabane de Moiry     | Gruben              | 36.5 | 22.81 | 1900  |
+| 7   | Gruben              | Grachen             | 23   | 14.38 | 1750  |
+| 8   | Grachen             | Zermatt             | 39   | 24.38 | 2050  |
