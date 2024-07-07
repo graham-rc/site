@@ -6,18 +6,23 @@ tags: ["run",
     "hike", 
     "adventure", 
 ]
+bigimg: [{src: "/img/chamonix_to_zermatt/IMG_8271.HEIC.jpg", desc: "Start in Chamonix"}, {src: "/img/chamonix_to_zermatt/IMG_8336.HEIC.jpg", desc: "Glacier"}, {src: "/img/chamonix_to_zermatt/IMG_8343.HEIC.jpg", desc: "Above Martigny"}]
 ---
 
-## Aborted, turned round and finished in Courmayeur, Italy.
+On 21st June 2024, I set off hoping to run/hike the "Walkers Haute Route". It didn't exactly go to plan.
+
+
+
+
 
 ## Original expected route:
-| Day | Date       | Start               | End                 | Stay                     | km   | mi    | climb | Guidebook Hike hours |
-| --- | ---------- | ------------------- | ------------------- | ------------------------ | ---- | ----- | ----- | -------------------- |
-| 1   | Fri 21 Jun | Chamonix            | Trient              | Le Peuty - Low level hut | 24   | 15    | 1300  | 7.75                 |
-| 2   | Sat 22 Jun | Trient              | Le Chable           | B&B                      | 30.5 | 19.06 | 1590  | 11.25                |
-| 3   | Sun 23 Jun | Le Chable           | Cabane de Louvie    | Cabane de Louvie         | 19   | 11.88 | 2060  | 8.25                 |
-| 4   | Mon 24 Jun | Cabane de Louvie    | La gouille lac bleu | Pension do Lac Bleu      | 34   | 21.25 | 1850  | 13.5                 |
-| 5   | Tue 25 Jun | La gouille lac bleu | Cabane de Moiry     | Cabane de Moiry          | 22.5 | 14.06 | 2200  | 8                    |
-| 6   | Wed 26 Jun | Cabane de Moiry     | Gruben              | Schwarzhorn hotel        | 36.5 | 22.81 | 1900  | 13                   |
-| 7   | Thu 27 Jun | Gruben              | Grachen             | Hotel                    | 23   | 14.38 | 1750  | 9                    |
-| 8   | Fri 28 Jun | Grachen             | Zermatt             | Basecamp Hotel           | 39   | 24.38 | 2050  | 11.5                 |
+| Date       | Start               | End                 | Stay                     | km   | mi    | climb |
+| ---------- | ------------------- | ------------------- | ------------------------ | ---- | ----- | ----- |
+| Fri | Chamonix            | Trient              | Le Peuty - Low level hut | 24   | 15    | 1300  |
+| Sat | Trient              | Le Chable           | B&B                      | 30.5 | 19.1 | 1590  |
+| Sun | Le Chable           | Cabane de Louvie    | Cabane de Louvie         | 19   | 11.9 | 2060  |
+| Mon | Cabane de Louvie    | La gouille lac bleu | Pension do Lac Bleu      | 34   | 21.2 | 1850  |
+| Tue | La gouille lac bleu | Cabane de Moiry     | Cabane de Moiry          | 22.5 | 14.1 | 2200  |
+| Wed | Cabane de Moiry     | Gruben              | Schwarzhorn hotel        | 36.5 | 22.8 | 1900  |
+| Thu | Gruben              | Grachen             | Hotel                    | 23   | 14.4 | 1750  |
+| Fri | Grachen             | Zermatt             | Basecamp Hotel           | 39   | 24.4 | 2050  |
