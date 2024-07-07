@@ -1,4 +1,3 @@
-## Front Page Content
+## What is the point?
 
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
-
+I like to run, walk, cycle. I also sometimes write software. Pipe to null is somewhere to dump my thoughts.
