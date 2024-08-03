@@ -51,9 +51,15 @@ _First and last view of Mont Blanc before crossing into Switzerland_
 
 The trail is fine, a few short snow crossings and not too much mud. I start getting a little urgent for a toilet and within minutes a branded “Toilet with a view” appeared, with windows to look at the mountains while you sit! The door opened to the best view, directly down the valley to a vast view of beautiful snowy mountains in the distance.
 
+![Col de Balme looking into Switzerland](/img/chamonix_to_zermatt/colbalme.jpg)
+_Looking into Switzerland from the border at Col de Balme_
+
 A few more minutes and I arrived in Le Peuty, where I’m staying, just before a storm broke and the heavy rain came. Good timing. The refuge is a low level on by the road and they have a yurt to eat and drink in where I take shelter from the storm. Basic lager tastes amazing after a day out in the hills.
 
 For dinner I’m put with two others who are doing the Tour of Mont Blanc alone, hiking in opposite directions, so they have plenty to share about what’s coming up. Joanne had come to Europe for a couple of months from Australia and had completed the Wainrights Coast to Coast, the West Highland Way and was now just beginning the Tour of Mont Blanc, she’d hiked a lot in New Zealand and clearly loved these multi-day hikes. Remi was new to hiking and she’s from Singapore, where there are apparently no mountains! She said she took up running last year and mentioned going to Hong Kong for a mountain trail half marathon where she said it all felt very slow, then the was a fast road section where she overtook a lot of people. She came third and didn’t seem to understand that this was any kind of achievement. Remi was squeezing the Tour into 7 days and struggling to keep the pace up and said she was learning a lot, especially after arriving at a col in a storm and taking refuge for the night in a tent with someone she met a few hours before, with no sleeping bag, instead wrapped up in a beach towel because she didn’t know how to pack light! It was great to share stories while eating dinner, then again at breakfast.
+
+![Bed in Le Peuty](/img/chamonix_to_zermatt/bed-peuty.jpg)
+_My bed in Refeuge Peuty_
 
 ## Day 2 – Le Peuty to Le Châble (nr Verbier)
 
