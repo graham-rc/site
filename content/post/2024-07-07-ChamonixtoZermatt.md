@@ -44,8 +44,10 @@ _The climb from Le Tour to Col de Balme at the Swiss/French border - not looking
 
 From Le Tour, the big climb of the day takes my up through a ski resort to the Col du Balme on the Swiss border. It’s steep, about 750m climb in a little under 5km but the path pretty easy underfoot and the views are opening up, the sky clearing too. I finally get a glimpse of Mont Blanc peeking out of the clouds before stopping for lunch at Refuge Col de Balme just before midday. Looking back into France there is a storm building, in Switzerland it looks like there is quite a lot of snow, but I can’t tell what the trail is like coming down from the Col, I’m only about 2200m up so I hadn’t expected to see much snow on 21st June! I had courgette soup, Coke and an espresso before running the day’s final descent. 
 
-![On the climb to Col de Balme](/img/chamonix_to_zermatt/snail.jpg)
-![First and last view of Mont Blanc before crossing into Switzerland](/img/chamonix_to_zermatt/snail.jpg)
+![Snail](/img/chamonix_to_zermatt/snail.jpg)
+_Looking back to into France_
+![Mont Blanc before crossing into Switzerland](/img/chamonix_to_zermatt/mont_blanc_from_letour.jpg)
+_First and last view of Mont Blanc before crossing into Switzerland_
 
 The trail is fine, a few short snow crossings and not too much mud. I start getting a little urgent for a toilet and within minutes a branded “Toilet with a view” appeared, with windows to look at the mountains while you sit! The door opened to the best view, directly down the valley to a vast view of beautiful snowy mountains in the distance.
 
