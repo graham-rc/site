@@ -13,28 +13,28 @@ On 21st June 2024, I set off hoping to run/hike the "Walkers Haute Route". It di
 
 
 ## Planned route:
-| Day | Start               | End                 | km   | mi    | climb (m)|
-| --- | ------------------- | ------------------- | ---- | ----- | -----    |
-| 1   | Chamonix            | Trient              | 24   | 15    | 1300     |
-| 2   | Trient              | Le Châble           | 30.5 | 19.06 | 1590     |
-| 3   | Le Châble           | Cabane de Louvie    | 19   | 11.88 | 2060     |
-| 4   | Cabane de Louvie    | La gouille lac bleu | 34   | 21.25 | 1850     |
-| 5   | La gouille lac bleu | Cabane de Moiry     | 22.5 | 14.06 | 2200     |
-| 6   | Cabane de Moiry     | Gruben              | 36.5 | 22.81 | 1900     |
-| 7   | Gruben              | Grachen             | 23   | 14.38 | 1750     |
-| 8   | Grachen             | Zermatt             | 39   | 24.38 | 2050     |
+| Day | Start               | End                 | km (mi)    | climb (m)|
+| --- | ------------------- | ------------------- | ---------- | -----    |
+| 1   | Chamonix            | Trient              | 24 (15)    | 1300     |
+| 2   | Trient              | Le Châble           | 30.5 (19)  | 1590     |
+| 3   | Le Châble           | Cabane de Louvie    | 19 (12)    | 2060     |
+| 4   | Cabane de Louvie    | La gouille lac bleu | 34  (21.3) | 1850     |
+| 5   | La gouille lac bleu | Cabane de Moiry     | 22.5 (14)  | 2200     |
+| 6   | Cabane de Moiry     | Gruben              | 36.5 (22.8)| 1900     |
+| 7   | Gruben              | Grachen             | 23 (14.4)  | 1750     |
+| 8   | Grachen             | Zermatt             | 39 (24.4)  | 2050     |
 
 ## Actual route:
 _Diverted on day 4_
-| Day | Start            | End              | km    | mi    | climb (m) |
-| --- | ---------------- | ---------------- | ----- | ----- | --------- |
-| 1   | Chamonix         | Trient           | 25.75 | 16    | 1367      |
-| 2   | Trient           | Le Châble        | 32    | 20    | 1166      |
-| 3   | Le Châble        | Cabane de Louvie | 15.1  | 9.4   | 1561      |
-| 4   | Cabane de Louvie | Orsières         | 30.9  | 19.2  | 1576      |
-| 5   | Orsières         | Rifugio Bonatti  | 34.2  | 21.25 | 2233      |
-| 6   | Rifugio Bonatti  | Courmayeur       | 29.25 | 18.2  | 1632      |
-| 7   | Chamonix         | Out and back     | 11.6  | 7.2   | 978       |
+| Day | Start            | End              | km (mi)     | climb (m) |
+| --- | ---------------- | ---------------- | ----------- | --------- |
+| 1   | Chamonix         | Trient           | 25.75 (16)  | 1367      |
+| 2   | Trient           | Le Châble        | 32 (20)     | 1166      |
+| 3   | Le Châble        | Cabane de Louvie | 15.1 (9.4)  | 1561      |
+| 4   | Cabane de Louvie | Orsières         | 30.9 (19.2) | 1576      |
+| 5   | Orsières         | Rifugio Bonatti  | 34.2 (21.25)| 2233      |
+| 6   | Rifugio Bonatti  | Courmayeur       | 29.25 (18.2)| 1632      |
+| 7   | Chamonix         | Out and back     | 11.6 (7.2)  | 978       |
 
 
 ## Travel day
