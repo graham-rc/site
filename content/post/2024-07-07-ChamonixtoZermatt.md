@@ -35,12 +35,7 @@ _Diverted on day 4_
 | 5   | Orsières         | Rifugio Bonatti  | 34.2 (21.25)| 2233      |
 | 6   | Rifugio Bonatti  | Courmayeur       | 29.25 (18.2)| 1632      |
 | 7   | Chamonix         | Out and back     | 11.6 (7.2)  | 978       |
-
-## Totals 
-
-Distance:	179km / 112.75mi
-
-Climb: 		10513m / 34492ft
+|     |                  | Total            | 179 (112.8) | 10513     |
 
 ## Travel day
 
