@@ -50,7 +50,7 @@ In Chamonix I went for a beer with Logan, surprisingly it was green and containe
 
 ![Start - Chamonix](/img/chamonix_to_zermatt/start.webp)
 
-The rain looks like it will pour all day, not too heavy but it’s a miserable day. I leave the hotel before 7am, on a banana and protein shake figuring I’ll find something to eat soon enough. I can’t see any mountains. The first day in the guidebook is a boring route to Argentière, it’s pretty short though and without much climb so I have it done by 9am without much effort. It rained all the way and my jacket leaked, pooling water in the sleeves and leaving me feeling pretty cold, I’m anxious that in the next few days I’ll be properly cold. Luckily there’s an outdoor shop in Argentière so I bought a replacement which clearly felt a lot warmer.
+The rain looks like it will pour all day, not too heavy but it’s a miserable day. I leave the hotel before 7am on a banana and protein shake figuring I’ll find something to eat soon enough. I can’t see any mountains. I'm doing two stages from the Haute Route guidebook today, the first is a short and boring route to Argentière without much climb so I have it done by 9am without much effort. It rained all the way and my jacket leaked, pooling water in the sleeves and leaving me feeling pretty cold, I’m anxious that in the next few days I’ll be properly cold. Luckily there’s an outdoor shop in Argentière so I bought a replacement Jacket which felt a lot warmer.
 
 Leaving Argentière I passed under a railway bridge with the Mont Blanc Express train passing over it, through the bridge the trail heads uphill and starts to look like an alpine forest, my mood lifts and the rain calms down on the way up the hill. I hear birdsong I don’t recognise and some blue sky appears. My hydration bladder seems to be empty, which seemed unlikely, I figured it must be squashed in my pack and blew into the tube thinking it might get the shape back and I’d be able to pull water from it again. This was a stupid idea, the pressure pushed water out the top and loads of cold water poured out my bag and over my shorts! This was just before arriving at an amazing view of Glacier du Tour at the village of Le Tour, which I didn’t stop to look at as I was worried I looked like I’d pissed myself.
 
@@ -76,7 +76,7 @@ For dinner I’m put with two others who are doing the Tour of Mont Blanc alone,
 ![Bed in Le Peuty](/img/chamonix_to_zermatt/bed-peuty.jpg)
 _My bed in Refeuge Peuty_
 
-## Day 2 – Le Peuty to Le Châble (nr Verbier)
+## Day 2 – Le Peuty to Le Châble (nr Verbier) - 32km - 1166m climb
 
 I said goodbye to Remi and Joanne. The refuge staff said it wasn’t safe to take the high alternative route over Fenetre d’Arpette as there was a lot of snow. I saw some others who intended to try the Fenetre d’Arpette route anyway but I had a long day ahead of me so I wasn’t up for trying it against the refuge’s advice as it’d be a long way to backtrack. The climb ascends first to a road about Trient, then a little further to Col de la Forclaz where there is a shop and a hotel, I’d had three coffees in quick succession this morning and a bunch of bananas over the last two days. Just before arriving at Col de la Forclaz, I farted and shit myself, this wasn’t how I’d hoped the day would start. Spotting a toilet block in the car park by the hotel I went in and cleaned up – luckily my boxers were fine. What a relief.
 
@@ -94,7 +94,7 @@ The trails were easy running for about one and a half hours, downhill to Sembran
 
 I arrived in Le Châble at around 2:30pm, not much seemed to be going on but I found a bar and had a couple of beers and then checked into the B&B at about 4:30ish and had a proper shower. I had a pretty uneventful evening in Le Châble, another beer, a big bowl of pasta and an early night.
 
-## Day 3 Le Châble to Cabane de Louvie - 15.10 km - 1561m climb
+## Day 3 Le Châble to Cabane de Louvie - 15.1km - 1561m climb
 
 In the morning, another guest was speaking French to the owner of the B&B, I don’t really understand French at all but I could tell he was talking about the weather and it was as if things hadn’t been going to plan. “Vous parlez Angais” I said and he explained that there was too much snow on the higher passes so it could only be done on skis. The Haute Route was not safe to continue on as a trail runner, he was a day or so ahead of me on the same route but had to stop and turn back. He went on the say the Zermatt was unreachable anyway after being totally cut off by extreme weather, causing flooding and landslides. BBC News confirmed this, it didn’t look good, people are missing. He said it was well worth going to the next cabin, although it’s too snowy to take the normal route so I’d have to go along the valley and take one steep climb from Fionnay up to Cabane de Louvie. I had little chance of getting any further. Also there’s no signal at the next cabin so I needed to deal cancel my bookings before leaving. 
 
@@ -192,7 +192,7 @@ Bonatti has a very communal feeling dinner, about 80 people all eat together, th
 
 Soon enough it was time for bed and I climbed up to my bunk.
 
-## Day 6 Rifugio Bonatti to Courmayeur (+ Maison Vieille) - 29.25km - 1392m
+## Day 6 Rifugio Bonatti to Courmayeur (+ Maison Vieille) - 29.25km - 1632m climb
 
 I got up early for breakfast, put on my wet running gear that I rinsed in cold water and ringed out by hand last night, it’s quick drying so it’s not miserable for long. A quick breakfast of bread and jam with coffee and I set off away from the main route, very quickly it was quiet. It’s kind of nice to be on the busy trails as they’re very friendly but it’s always great to leave them behind too for some quiet. My route out was up hill up the Malatrà Valley with markers for Tor de Geants, which goes over Col Malatrà (2925m), that would definitely not be passable as there’s snow well below. I passed a couple of tents just out of view from the refuge. Then the climb started properly toward the end of the Malatrà Valley, I stayed on a much steeper part of the slope to avoid snow, it was a slog and I moved very slow feeling pretty tired. 
 
@@ -218,7 +218,7 @@ _The climb after lunch to Maison Vieille_
 
 I checked in to the hotel, there were 3 others checking in chatting together, 2 women and a man. One was wearing sandals and had painted toenails, her feet looked very nice for a hiker and I made a silly comment about it. I went to my room, rinsed all my clothes and hung them around to dry, they didn’t smell good, had a rest and went out for another pizza of course. When I was nearly finished I saw the sandals and painted toenails walking past! She spotted me and said that they saw I was staying on my own, did I want to join the three of them for a drink. We had a couple of drinks at a bar in town and we all got along like old friends, taking the piss out of each other and sharing stories. I had a great last night with David (Haarvad) from Norway, Tereza and Veronika from Czechia.
 
-## Day 7 A run in Chamonix - 11.6km - 978m
+## Day 7 A run in Chamonix - 11.6km - 978m climb
 
 I had breakfast with David, Tereza and Veronika. We’d been laughing about the “very good breakfast” being highlighted on booking.com, it set high expectiations. Veronika was a little worried about someone from a group they’d met over the last few days. One of the group had slipped back and not caught up, we wondered if he’d got pissed off with the walk and just got a bus out of there. They wondered where to camp tonight and I suggested where I’d seen the campers above Rifugio Bonatti the previous morning and sent a map screenshot over in case they wanted to camp there. 
 
