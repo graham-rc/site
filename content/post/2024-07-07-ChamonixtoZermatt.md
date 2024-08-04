@@ -23,6 +23,8 @@ On 21st June 2024, I set off hoping to run/hike the "Walkers Haute Route". It di
 | 6   | Cabane de Moiry     | Gruben              | 36.5 (22.8)| 1900     |
 | 7   | Gruben              | Grachen             | 23 (14.4)  | 1750     |
 | 8   | Grachen             | Zermatt             | 39 (24.4)  | 2050     |
+||
+|     |                     | Total               | 229 (143)  | 14700    |
 
 ## Actual route:
 _Diverted on day 4_
@@ -35,6 +37,7 @@ _Diverted on day 4_
 | 5   | Orsières         | Rifugio Bonatti  | 34.2 (21.25)| 2233      |
 | 6   | Rifugio Bonatti  | Courmayeur       | 29.25 (18.2)| 1632      |
 | 7   | Chamonix         | Out and back     | 11.6 (7.2)  | 978       |
+||
 |     |                  | Total            | 179 (112.8) | 10513     |
 
 ## Travel day
