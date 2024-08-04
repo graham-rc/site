@@ -1,6 +1,6 @@
 ---
-title: Walker's Haute Route "Fastpacking"
-subtitle: Chamonix to Zermatt (aborted)
+title: Walker's Haute Route, failed
+subtitle: Started 21 June 2024
 date: 2024-07-07
 tags: ["run", 
     "hike", 
@@ -9,21 +9,35 @@ tags: ["run",
 bigimg: [{src: "/img/chamonix_to_zermatt/cloud_frame.jpg", desc: "Alp Bovine"}, {src: "/img/chamonix_to_zermatt/malatra_moonset.jpg", desc: "Moonset over Malatrà Valley"}, {src: "/img/chamonix_to_zermatt/louvie_reflect.jpg", desc: "Lac Louvie"}, {src: "/img/chamonix_to_zermatt/brule.jpg", desc: "View from Mont Brûlé"}, {src: "/img/chamonix_to_zermatt/bertone_dog.jpg", desc: "Helpful dog"} ]
 ---
 
-On 21st June 2024, I set off hoping to run/hike the "Walkers Haute Route". It didn't exactly go to plan. Days one and two went without any real issue, but I was finding snow at around 2500m. The route crosses the grain of the Swiss mountains, with 7 passes close to 3000m and a significant time above 2500m. There are no real alternatives as the valley routes would be huge detours.
+On 21st June 2024, I set off hoping to run/hike the "Walkers Haute Route". It didn't exactly go to plan. Days one and two went without any real issue, but I was finding snow at around 2500m. The route crosses the grain of the Swiss mountains, with 7 passes close to 3000m and a significant time above 2500m. There are no real alternatives as the valley routes would be huge detours. I had to reroute from day 4, heading back for the classic Tour of Mont Blanc (TMB) route.
 
-![Cabane de Louvie](/img/chamonix_to_zermatt/Louvie.jpg)
 
-## Original expected route:
-| Day | Start               | End                 | km   | mi    | climb |
-| --- | ------------------- | ------------------- | ---- | ----- | ----- |
-| 1   | Chamonix            | Trient              | 24   | 15    | 1300  |
-| 2   | Trient              | Le Chable           | 30.5 | 19.06 | 1590  |
-| 3   | Le Chable           | Cabane de Louvie    | 19   | 11.88 | 2060  |
-| 4   | Cabane de Louvie    | La gouille lac bleu | 34   | 21.25 | 1850  |
-| 5   | La gouille lac bleu | Cabane de Moiry     | 22.5 | 14.06 | 2200  |
-| 6   | Cabane de Moiry     | Gruben              | 36.5 | 22.81 | 1900  |
-| 7   | Gruben              | Grachen             | 23   | 14.38 | 1750  |
-| 8   | Grachen             | Zermatt             | 39   | 24.38 | 2050  |
+## Planned route:
+| Day | Start               | End                 | km   | mi    | climb (m)|
+| --- | ------------------- | ------------------- | ---- | ----- | -----    |
+| 1   | Chamonix            | Trient              | 24   | 15    | 1300     |
+| 2   | Trient              | Le Châble           | 30.5 | 19.06 | 1590     |
+| 3   | Le Châble           | Cabane de Louvie    | 19   | 11.88 | 2060     |
+| 4   | Cabane de Louvie    | La gouille lac bleu | 34   | 21.25 | 1850     |
+| 5   | La gouille lac bleu | Cabane de Moiry     | 22.5 | 14.06 | 2200     |
+| 6   | Cabane de Moiry     | Gruben              | 36.5 | 22.81 | 1900     |
+| 7   | Gruben              | Grachen             | 23   | 14.38 | 1750     |
+| 8   | Grachen             | Zermatt             | 39   | 24.38 | 2050     |
+
+## Actual route:
+_Diverted on day 4_
+| Day | Start            | End              | km    | mi    | climb (m) |
+| --- | ---------------- | ---------------- | ----- | ----- | --------- |
+| 1   | Chamonix         | Trient           | 25.75 | 16    | 1367      |
+| 2   | Trient           | Le Châble        | 32    | 20    | 1166      |
+| 3   | Le Châble        | Cabane de Louvie | 15.1  | 9.4   | 1561      |
+| 4   | Cabane de Louvie | Orsières         | 30.9  | 19.2  | 1576      |
+| 5   | Orsières         | Rifugio Bonatti  | 34.2  | 21.25 | 2233      |
+| 6   | Rifugio Bonatti  | Courmayeur       | 29.25 | 18.2  | 1632      |
+| 7   | Chamonix         | Out and back     | 11.6  | 7.2   | 978       |
+
+
+## Travel day
 
 Setting the alarm for 4am is never nice, though Rebecca was kind enough to give me a lift to the airport at 4:30am so I didn’t have to worry about a taxi not turning up. I found a housing estate with a footpath to the airport to avoid driving right in. I wasn’t late but I felt rushed and like I wasn’t going to make the flight and ran the path to the airport. I made it to Geneva at 9:30 Swiss time. With hours before my transfer to Chamonix I killed time by going to Decathlon and panicking about what supplies I might have forgotten. 
 
@@ -31,9 +45,10 @@ The transfer was a shared minibus with one other person, Logan from Florida, who
 
 In Chamonix I went for a beer with Logan, surprisingly it was green and contained genepy, we decided not to eat there as pizza was about €35 and added each other on Strava and said goodbye. The weather has been shite and I’m feeling some anxiety about spending the next few days in the mountains.
 
-![Start - Chamonix](/img/chamonix_to_zermatt/start.webp)
 
 ## Day 1 – Chamonix to Le Peuty – 24km – 1370m climb
+
+![Start - Chamonix](/img/chamonix_to_zermatt/start.webp)
 
 The rain looks like it will pour all day, not too heavy but it’s a miserable day. I leave the hotel before 7am, on a banana and protein shake figuring I’ll find something to eat soon enough. I can’t see any mountains. The first day in the guidebook is a boring route to Argentière, it’s pretty short though and without much climb so I have it done by 9am without much effort. It rained all the way and my jacket leaked, pooling water in the sleeves and leaving me feeling pretty cold, I’m anxious that in the next few days I’ll be properly cold. Luckily there’s an outdoor shop in Argentière so I bought a replacement which clearly felt a lot warmer.
 
