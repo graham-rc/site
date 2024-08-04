@@ -6,7 +6,7 @@ tags: ["run",
     "hike", 
     "adventure", 
 ]
-bigimg: [{src: "/img/chamonix_to_zermatt/start.jpg", desc: "Start in Chamonix"}, {src: "/img/chamonix_to_zermatt/glacier.jpg", desc: "Glacier"}, {src: "/img/chamonix_to_zermatt/martigny.jpg", desc: "Above Martigny"}]
+bigimg: [{src: "/img/chamonix_to_zermatt/cloud_frame.jpg", desc: "Alp Bovine"}, {src: "/img/chamonix_to_zermatt/malatra_moonset.jpg", desc: "Moonset over Malatrà Valley"}, {src: "/img/chamonix_to_zermatt/louvie_reflect.jpg", desc: "Lac Louvie"}, {src: "/img/chamonix_to_zermatt/brule.jpg", desc: "View from Mont Brûlé"}, {src: "/img/chamonix_to_zermatt/bertone_dog.jpg", desc: "Helpful dog"} ]
 ---
 
 On 21st June 2024, I set off hoping to run/hike the "Walkers Haute Route". It didn't exactly go to plan. Days one and two went without any real issue, but I was finding snow at around 2500m. The route crosses the grain of the Swiss mountains, with 7 passes close to 3000m and a significant time above 2500m. There are no real alternatives as the valley routes would be huge detours.
