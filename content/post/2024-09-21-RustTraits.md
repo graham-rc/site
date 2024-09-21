@@ -18,21 +18,7 @@ Traits can be added to types to allow them to do something, as if these were cla
 implemented. So if I want to check if an i32 is divisible by 7, I can add: 
 
 ```
-trait Sevens{
-    fn is_seven(&self) -> bool; 
-    fn divisible_by_seven(&self) -> bool;
-}
-
 impl Sevens for i32 {
-    fn divisible_by_seven(&self) -> bool{
-        self%7 == 0
-    }
-    fn is_seven(&self) -> bool{
-        7 == *self
-    }
-}
-
-impl Sevens for u32 {
     fn divisible_by_seven(&self) -> bool{
         self%7 == 0
     }
@@ -48,5 +34,18 @@ fn main() {
     println!("Is {} divisible by 7? {}", y, y.divisible_by_seven());
     println!("Is {} equal to 7? {}", y, y.is_seven());
     println!("Is {} equal to 7? {}", 7, 7.is_seven());
+}
+```
+
+And if I want the same to work on u32, I can add this to the code: 
+
+```
+impl Sevens for u32 {
+    fn divisible_by_seven(&self) -> bool{
+        self%7 == 0
+    }
+    fn is_seven(&self) -> bool{
+        7 == *self
+    }
 }
 ```
