@@ -18,6 +18,11 @@ Traits can be added to types to allow them to do something, as if these were cla
 implemented. So if I want to check if an i32 is divisible by 7, I can add: 
 
 ```
+trait Sevens {
+    fn divisible_by_seven(&self) -> bool ;
+    fn is_seven(&self) -> bool ;
+}
+
 impl Sevens for i32 {
     fn divisible_by_seven(&self) -> bool{
         self%7 == 0
