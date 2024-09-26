@@ -4,8 +4,6 @@ subtitle: A collection of links I might one day look at
 comments: False
 ---
 
-# Stuff
-
-# Things
-
+## Learning Rust:
+* [100 exercises to learn rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
 
