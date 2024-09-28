@@ -14,7 +14,7 @@ tags: [
 </br>
 Following is the code for a very basic struct with accessors and mutators.
 
-```
+```rust
 struct MyStruct{
     word: String,
     number: i32

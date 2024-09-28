@@ -21,7 +21,7 @@ In this scenario, I'm imagining that it's very importand to check if a number is
 the number seven. I can add a function to the "i32" and "u32" object. I would probably need to do this to i64 too, but 
 this isn't particularly exciting to reiterate in code below.
 
-```
+```rust
 trait Sevens {
     fn divisible_by_seven(&self) -> bool ;
     fn is_seven(&self) -> bool ;
@@ -39,7 +39,7 @@ impl Sevens for i32 {
 
 And if I want the same to work on u32, I can add this to the code: 
 
-```
+```rust
 impl Sevens for u32 {
     fn divisible_by_seven(&self) -> bool{
         self%7 == 0
@@ -54,7 +54,7 @@ And then main can be added (note, these are all in the same file at the moment a
 imported another file with a "use" declaration.
 
 
-```
+```rust
 fn main() {
     let x: i32 = 9;
     let y: u32 = 49;
