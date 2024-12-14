@@ -11,6 +11,7 @@ comments: False
 
 ## References/guides
 * [Julia Evans "comics"](https://wizardzines.com/comics/)
+* Software license info: [TLDR Legal](https://www.tldrlegal.com/)
 
 ## Git
-* [Lorna Mitchell Git talk](https://www.youtube.com/watch?v=duqBHik7nRo)
+* [Lorna Mitchell Git talk](https://www.youtube.com/watch?v=duqBHik7nRo) <- note, I think submodules may have changed very slightly since, seems different.
