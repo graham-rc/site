@@ -12,3 +12,5 @@ comments: False
 ## References/guides
 * [Julia Evans "comics"](https://wizardzines.com/comics/)
 
+## Git
+* [Lorna Mitchell Git talk](https://www.youtube.com/watch?v=duqBHik7nRo)
