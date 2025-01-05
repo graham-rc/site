@@ -1,7 +1,7 @@
 ---
 title: Book - Surrounded by Psychopaths, Thomas Erikson
 #subtitle:
-date: 2025-01-05
+date: 2025-01-04
 tags: [ 
     "book", 
     "psychology", 
